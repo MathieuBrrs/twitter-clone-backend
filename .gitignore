@@ -1,0 +1,5 @@
+# Fichiers de configuration sensibles
+.env
+
+# Dépendances et fichiers générés
+node_modules/
